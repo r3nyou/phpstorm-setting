@@ -1,0 +1,7 @@
+<application>
+  <component name="AceConfig">
+    <option name="cycleMode2" value="Target" />
+    <option name="cycleMode3" value="Definition" />
+    <option name="cycleMode4" value="(Skip)" />
+  </component>
+</application>

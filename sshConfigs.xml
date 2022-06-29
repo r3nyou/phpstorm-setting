@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="35.229.154.50" id="6136a9d6-4ef2-42a0-a336-423bcc35187e" keyPath="$USER_HOME$/.ssh/id_rsa" port="9527" nameFormat="DESCRIPTIVE" username="marcusjian" />
+    </configs>
+  </component>
+</application>
