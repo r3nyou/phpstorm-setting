@@ -2,6 +2,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
@@ -9,5 +10,14 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="JumpToLastWindow" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="RunDashboard.Run">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
   <action id="UsageFiltering.WriteAccess" />
+  <action id="runShellFileAction">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
 </keymap>
