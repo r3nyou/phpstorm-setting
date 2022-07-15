@@ -16,14 +16,5 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="JumpToLastWindow" />
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift ctrl q" />
-  </action>
-  <action id="RunDashboard.Run">
-    <keyboard-shortcut first-keystroke="shift ctrl q" />
-  </action>
   <action id="UsageFiltering.WriteAccess" />
-  <action id="runShellFileAction">
-    <keyboard-shortcut first-keystroke="shift ctrl q" />
-  </action>
 </keymap>
