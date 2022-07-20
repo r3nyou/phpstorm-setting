@@ -20,5 +20,19 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
+    <remote-server name="AsiaYo php-fpm 73" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/Documents/code/asiayo/backend-toolkits/docker-local" />
+              <option name="virtualMachinePath" value="/Users" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
   </component>
 </application>
