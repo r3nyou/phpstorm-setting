@@ -2,10 +2,10 @@
   <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="meta 1" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
