@@ -12,6 +12,7 @@
   <action id="EditorContextInfo" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="Find" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
@@ -23,7 +24,15 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="JumpToLastWindow" />
+  <action id="ProblemsView.QuickFixes">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="RecentFiles" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="UsageFiltering.WriteAccess" />
