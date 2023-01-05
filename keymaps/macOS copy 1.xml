@@ -17,7 +17,14 @@
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="JumpToLastWindow" />
+  <action id="RecentFiles" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="UsageFiltering.WriteAccess" />
 </keymap>
