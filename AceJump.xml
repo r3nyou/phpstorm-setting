@@ -1,7 +1,11 @@
 <application>
   <component name="AceConfig">
     <option name="cycleMode2" value="Target" />
-    <option name="cycleMode3" value="Definition" />
+    <option name="cycleMode3" value="Jump to End" />
     <option name="cycleMode4" value="(Skip)" />
+    <option name="showSearchNotification" value="true" />
+    <option name="jumpModeRGB" value="-18687" />
+    <option name="jumpEndModeRGB" value="-5415940" />
+    <option name="targetModeRGB" value="-9452033" />
   </component>
 </application>
