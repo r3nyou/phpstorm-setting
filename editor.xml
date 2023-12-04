@@ -22,7 +22,6 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="TodoConfiguration">

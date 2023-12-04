@@ -7,16 +7,27 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="CloseGotItTooltip" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorContextInfo" />
+  <action id="EscUnfollowUserAction" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Find" />
+  <action id="FocusEditor" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -31,6 +42,7 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="JumpToLastWindow" />
+  <action id="NavBar-cancel" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -43,6 +55,7 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Terminal.SwitchFocusToEditor" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
 </keymap>
